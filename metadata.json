@@ -1,0 +1,6 @@
+{
+  "name": "Aula Previsional Dominicana - Prof. Francia De Los Santos",
+  "description": "Portal profesional y formativo sobre Procedimientos y Beneficios de los Afiliados al Sistema de Reparto de la República Dominicana, dirigido por la Licda. Francia De Los Santos Díaz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
